@@ -57,7 +57,7 @@ rewardsReceiptItemList contains list of items i.e. receipts has nested json so I
 
 6. Which brand has the most transactions among users who were created within the past 6 months?
 
-Used Pandas sql - Read [SQL script]([Part 2 - SQL Script.ipynb](https://github.com/bhoirswamini/FetchRewards-DataAnalysis/blob/f6d02da71551019c2e1b4742290986e1e1329a2b/Part%202%20-%20SQL%20Script.ipynb)https://github.com/bhoirswamini/FetchRewards-DataAnalysis/blob/f6d02da71551019c2e1b4742290986e1e1329a2b/Part%202%20-%20SQL%20Script.ipynb)
+Used Pandas sql - Read [SQL script]((https://github.com/bhoirswamini/FetchRewards-DataAnalysis/blob/f6d02da71551019c2e1b4742290986e1e1329a2b/Part%202%20-%20SQL%20Script.ipynb)https://github.com/bhoirswamini/FetchRewards-DataAnalysis/blob/f6d02da71551019c2e1b4742290986e1e1329a2b/Part%202%20-%20SQL%20Script.ipynb)
 
 # Part 3: Addressed Data Quality issues 
 The python script for the data quality issue is [here] 
