@@ -57,7 +57,7 @@ rewardsReceiptItemList contains list of items i.e. receipts has nested json so I
 
 6. Which brand has the most transactions among users who were created within the past 6 months?
 
-Used Pandas sql - Read [SQL script](https://github.com/Himani-Gadve1/FetchRewards_Data_Analysis/blob/main/SQL%20script/FetchRewards.sql)
+Used Pandas sql - Read [SQL script](Part 2 - SQL Script.ipynb)
 
 # Part 3: Addressed Data Quality issues 
 The python script for data quality issue is [here] 
